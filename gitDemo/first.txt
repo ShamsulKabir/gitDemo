@@ -1,0 +1,7 @@
+My first git tutorial class.
+Thirs
+Second
+First...
+function kabir() {
+	console.log("Hello world");
+}
